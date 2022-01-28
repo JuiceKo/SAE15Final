@@ -1,0 +1,2 @@
+- Utilisation de la méthode brute car et plus simple car nous n'y arrivons pas en Python
+	-> Je fusionne en Csv puis je tris avec les fonctionnalités excel
